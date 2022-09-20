@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GradleProject</string>
+    <string name="success_button">Success Button</string>
+    <string name="info_button">Info Button</string>
+    <string name="warning_button">Warning button</string>
+    <string name="image_button">Image Button</string>
+    <string name="error">Error</string>
+</resources>
